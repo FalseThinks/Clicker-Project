@@ -1,0 +1,12 @@
+-from nerd to handsome 
+    -Versión hombre/mujer 
+    -Diferentes etapas (fatal, mal, medio, mejor...etc)
+    -Diferentes escenarios (casa, gym, uni, calle, parque...etc)
+    -Mini-juegos (esquivar piedras, comida que va cayendo, en el gymnasio, 
+			tipo candycrush(esquivando el lol, si no, terminas jugando), 
+			entrarle a una tia, skincare.. etc)
+    -Barras de estado (apariencia-masculinidad, forma fisica, energia-autoestima, capacidades sociales-autoestima etc...)
+    -Diferentes tipos de 'monedas' (mancuernas(gym), corazones(masculinidad), muñequitos(social))
+    -Anuncios (ganar 'monedas', acelerar procesos, recuperar energia)
+    -Que sea dificil avanzar (como en el dont be fired)
+    
